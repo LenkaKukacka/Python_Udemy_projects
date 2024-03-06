@@ -1,2 +1,2 @@
 # KukPython
-Lenka Kukackova Python projects
+Lenka Kukackova Python projects from Udemy Coding course
